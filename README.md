@@ -1,4 +1,4 @@
-#USAGE:
+# USAGE:
 - "size?" size of the grid (eg:8)
 - "debug?" 0 == false and 1 == true, will display gradient vectors
 - "width?" number of row (eg:100)
